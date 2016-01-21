@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Recycled Recitals]]></title>
         <description><![CDATA[Recycled Recitals]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/recycled-recitals/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Jan 2016 05:57:40 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 21 Jan 2016 06:00:46 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/recycled-recitals/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/998f14a6-6164-4f61-a062-5528eb66fe9e.jpg">]]></description>
+            <link>https://thegrid.ai/recycled-recitals/25cd55b1-55aa-40aa-bd47-6c62baefdcb6/index.html</link>
+            <guid isPermaLink="false">25cd55b1-55aa-40aa-bd47-6c62baefdcb6</guid>
+            <pubDate>Thu, 21 Jan 2016 06:00:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fed5cc96-1ad8-4b17-83b3-c66af57f9cd4.jpg">]]></description>
-            <link>undefined1b260b86-5671-4c7c-8f8a-98ad7467f7ce/index.html</link>
+            <link>https://thegrid.ai/recycled-recitals/1b260b86-5671-4c7c-8f8a-98ad7467f7ce/index.html</link>
             <guid isPermaLink="false">1b260b86-5671-4c7c-8f8a-98ad7467f7ce</guid>
             <pubDate>Thu, 21 Jan 2016 05:57:31 GMT</pubDate>
         </item>
